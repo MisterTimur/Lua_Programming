@@ -86,6 +86,6 @@ return Рез
 end
  
 print(Вып("A=1 B=(2) C=3 D=4 E=(A+(B*C)+D) "))
-  
+print(Вып("A=1 B=(2) "))  
    
    
